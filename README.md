@@ -1,8 +1,8 @@
 # 📘 ML Zoomcamp 2025 – Homework Solutions  
 
-This repository contains my solutions, notes, and exercises from the **ML Zoomcamp 2025** by [DataTalks.Club](https://datatalks.club/).  
+This repository contains my solutions from the **ML Zoomcamp 2025** by [DataTalks.Club](https://datatalks.club/).
 
-📅 The 2025 cohort starts on **September 15th, 2025**. This repo will be updated weekly as I progress through the course.  
+📅 The 2025 cohort starts on **September 15th, 2025**. This repo will be updated weekly as I progress through the course and will provide solutions for this years cohort. There, you can check the material for this [seminar](https://github.com/DataTalksClub/machine-learning-zoomcamp).
 
 ---
 
@@ -10,9 +10,9 @@ This repository contains my solutions, notes, and exercises from the **ML Zoomca
 
 ### Homework
 
-- [ ] Homework 1 → Introduction to Machine Learning
-- [ ] Homework 2 → Machine Learning for Regression  
-- [ ] Homework 3 → Machine Learning for Classification
+- [x] Homework 1 → Introduction to Machine Learning
+- [x] Homework 2 → Machine Learning for Regression  
+- [x] Homework 3 → Machine Learning for Classification
 - [ ] Homework 4 → Evaluation Metrics for Classification
 - [ ] Homework 5 → Deploying Machine Learning Models
 - [ ] Homework 6 → Decision Trees and Ensemble Learning  
@@ -30,10 +30,18 @@ This repository contains my solutions, notes, and exercises from the **ML Zoomca
 
 ---
 
-## 📂 Repository Structure (to be created in the future)
+## 📂 Repository Structure
+
+As the time passes, the repository structure will be **updated**.
 
 ```md
-
+├── LICENSE             <- Open-source license if one is chosen
+├── _environment.yml    <- The python enviroment file
+├── .gitignore          <- File containing which files to be excluded from tracking
+├── README.md           <- The project explanation file 
+├── 01-week             <- The folder contain the solution for the 1st week
+├── 02-week             <- The folder contain the solution for the 2nd week
+└── 03-week             <- The folder contain the solution for the 3rd week
 ```
 
 ## 🏆 Certification  
