@@ -13,7 +13,7 @@ This repository contains my solutions from the **ML Zoomcamp 2025** by [DataTalk
 - [x] Homework 1 → Introduction to Machine Learning
 - [x] Homework 2 → Machine Learning for Regression  
 - [x] Homework 3 → Machine Learning for Classification
-- [ ] Homework 4 → Evaluation Metrics for Classification
+- [x] Homework 4 → Evaluation Metrics for Classification
 - [ ] Homework 5 → Deploying Machine Learning Models
 - [ ] Homework 6 → Decision Trees and Ensemble Learning  
 - [ ] Homework 8 → Neural Networks and Deep Learning
