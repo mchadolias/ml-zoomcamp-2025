@@ -47,3 +47,6 @@ __pycache__/
 .cache/
 .pytest_cache/
 .mypy_cache/
+
+# Juopyter Notebook Lessons 
+*_lesson.ipynb
