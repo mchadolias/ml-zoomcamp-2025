@@ -37,6 +37,9 @@ data/
 *.h5
 *.hdf5
 
+# Tests
+tests/
+
 # Model artifacts
 models/
 *.pkl
@@ -49,4 +52,4 @@ __pycache__/
 .mypy_cache/
 
 # Juopyter Notebook Lessons 
-*_lesson.ipynb
+playground*

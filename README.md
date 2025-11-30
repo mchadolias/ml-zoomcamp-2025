@@ -14,9 +14,9 @@ This repository contains my solutions from the **ML Zoomcamp 2025** by [DataTalk
 - [x] Homework 2 → Machine Learning for Regression  
 - [x] Homework 3 → Machine Learning for Classification
 - [x] Homework 4 → Evaluation Metrics for Classification
-- [ ] Homework 5 → Deploying Machine Learning Models
-- [ ] Homework 6 → Decision Trees and Ensemble Learning  
-- [ ] Homework 8 → Neural Networks and Deep Learning
+- [x] Homework 5 → Deploying Machine Learning Models
+- [x] Homework 6 → Decision Trees and Ensemble Learning  
+- [x] Homework 8 → Neural Networks and Deep Learning
 - [ ] Homework 9 → Neural Networks & Deep Learning  
 - [ ] Homework 10 → Serverless & Cloud Deployment  
 - [ ] ML Zoomcamp 2024 Competition
@@ -24,7 +24,7 @@ This repository contains my solutions from the **ML Zoomcamp 2025** by [DataTalk
 
 ### Projects
 
-- [ ] Midterm Project
+- [x] Midterm Project - [Pulsar Classification Project](https://github.com/mchadolias/pulsar-classification)
 - [ ] 1st Capstone Projest
 - [ ] 2st Capstone Projest
 
@@ -39,9 +39,14 @@ As the time passes, the repository structure will be **updated**.
 ├── _environment.yml    <- The python enviroment file
 ├── .gitignore          <- File containing which files to be excluded from tracking
 ├── README.md           <- The project explanation file 
-├── 01-week             <- The folder contain the solution for the 1st week
-├── 02-week             <- The folder contain the solution for the 2nd week
-└── 03-week             <- The folder contain the solution for the 3rd week
+├── data/               <- Data folder
+├── 01-week/            <- Solution for the 1st week
+├── 02-week/            <- Solution for the 2nd week
+├── 03-week/            <- Solution for the 3rd week
+├── 04-week/            <- Solution for the 4th week
+├── 05-week/            <- Solution for the 5th week
+├── 06-week/            <- Solution for the 6th week
+└── 08-week/            <- Solution for the 8th week
 ```
 
 ## 🏆 Certification  
