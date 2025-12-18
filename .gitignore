@@ -53,3 +53,7 @@ __pycache__/
 
 # Juopyter Notebook Lessons 
 playground*
+
+# ONNX files
+*.onnx
+*.onnx.data
